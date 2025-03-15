@@ -1,6 +1,6 @@
 <h1 align="center">✨ About me</h1>
 
-- 😀 My name is Nguyễn Thành Trung
+- 😀 My name is Thành Trung
 
 - ❤️ I love writing Java and Go
 
