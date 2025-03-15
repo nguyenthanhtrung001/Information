@@ -1,6 +1,5 @@
+<h1 align="center">✨ About me</h1>
 
-  <h1 align="center">✨ About me</h1>
-  
 - 😀 My name is Nguyễn Thành Trung
 
 - ❤️ I love writing C#
@@ -12,6 +11,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,visualstudio,vscode,dotnet,react,flutter&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,go,py,cs,c++,php,nodejs,nextjs,mongo,postgres,mysql,sqlserver,visualstudio,vscode,eclipse,intellij,springboot,laragon&perline=7" />
   </a>
 </p>
