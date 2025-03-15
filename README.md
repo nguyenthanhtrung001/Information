@@ -2,7 +2,7 @@
 
 - 😀 My name is Nguyễn Thành Trung
 
-- ❤️ I love writing C#
+- ❤️ I love writing Java and Go
 
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhtrung001/Information/issues)
 <br>
@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,cs,c++,php,nodejs,nextjs,mongo,postgres,mysql,sqlserver,visualstudio,vscode,eclipse,intellij,springboot,laragon&perline=7" style="width: 40px; height: 40px; margin: 10px;" />
+     <img src="https://skillicons.dev/icons?i=java,spring,go,py,cs,php,nodejs,nextjs,mongodb,postgres,mysql,postman,visualstudio,vscode,eclipse,idea,docker,rabbitmq,ubuntu,kubernetes&perline=7" />
+
   </a>
 </p>
